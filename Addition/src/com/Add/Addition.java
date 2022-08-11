@@ -13,5 +13,14 @@ public class Addition
 		
 		
 		System.out.println("This is the addition: "+ Ans);
+int sub;
+		
+		int c=2;
+		int d=5;
+		
+	sub= c-d;
+
+		System.out.println("This is the addition: "+ sub);
+		
 	}
 }
